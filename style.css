@@ -408,13 +408,14 @@ article .icon {
     padding: 0.5rem;
 }
 
-.contact-info-container p {
+.contact-info-container {
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 0.5rem;
     margin: 1rem;
 }
+
 .contact-info-container p {
     font-size: large;
 }
@@ -425,4 +426,10 @@ article .icon {
 
 .email-icon {
     height: 2.5rem;
+}
+
+/* FOOTER SECTION */
+
+footer p {
+    text-align: center;
 }
